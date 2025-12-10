@@ -1,6 +1,6 @@
-# 🍕 Pizza Heaven – Modern Food Ordering Web App
+# Digital-Menu-Management-and-Online-Ordering-using-Firebase
 
-**Pizza Heaven** is a responsive and feature-rich food ordering web application built using **HTML, CSS, JavaScript**, and **Google Firebase**.  
+**Digital-Menu-Management-and-Online-Ordering-using-Firebase** is a responsive and feature-rich food ordering web application built using **HTML, CSS, JavaScript**, and **Google Firebase**.  
 The app provides a smooth and intuitive UI for both **Authenticated Users** and **Guest Users**, with real-time cart management and a simple checkout flow.
 
 ---
@@ -51,8 +51,8 @@ The app provides a smooth and intuitive UI for both **Authenticated Users** and 
 ## ⚙️ How to Run
 
 1. **Clone the repository**
-   git clone https://github.com/rvsr26/Restaurent-menu
-   cd pizza-heaven
+   git clone https://github.com/c-pranav-sharma/Digital-Menu-Management-and-Online-Ordering-using-Firebase
+   cd Digital-Menu-Management-and-Online-Ordering-using-Firebase
 
 2. **Configure Firebase**
    - Enable Authentication (Email/Password + Google)  
@@ -79,4 +79,4 @@ The app provides a smooth and intuitive UI for both **Authenticated Users** and 
 ---
 
 ## 👨‍💻 Author
-**VISHNU SATHWICK**
+**C.Pranav Sharma**
